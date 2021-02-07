@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514e;
+}
+
+p{
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.main {
+  margin-top: 70px;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 4.5rem;
+  margin-bottom: 0;
+  color: #2c786c
+}
+
+.second-main {
+  color: black;
+}
+
+.hey {
+  color: #f8b400;
+}
+
+.line {
+  color: #2c786c;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  color: #f8b400;
+  font-weight: normal;
+  line-height: 200%;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #004445;
+}
+
+.into {
+  margin: 1px auto 1px auto;
+  width: 35%;
+}
+
+p{
+  margin-top: 2px;
+}
+
+.dp {
+  margin-top: 30px;
+}
+
+.camp-img {
+  margin: 20px auto 30px auto;
+  width: 21%;
+}
+
+.skill-img {
+  float: left;
+  width: 18%;
+  margin-right: 30px;
+}
+
+.photo-img {
+  float: right;
+  width: 18%;
+  margin-left: 30px;
+}
+
+.bottom-tree {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+  height: 100px;
+  width: 100px;
+}
+
+.top-tree {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+  height: 80px;
+  width: 85px;
+}
+
+.top-container {
+  margin-top: 0;
+  position: relative;
+  padding-top: 120px;
+    background-color: #faf5e4;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 90px auto 90px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.contact-me {
+
+}
+
+.bottom-container {
+  margin-top: 15px;
+  background-color: #2c786c;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #f6416c;
+}
+
+a{
+  text-decoration: none;
+  color: #f8b400;
+  margin: 30px;
+
+}
+
+.copy{
+
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
+
+
+hr{
+  width:4%;
+  border-top: dotted;
+  border-width: 9px 0 0 0;
+  color: #2c786c;
+}
+
+.btn {
+  background: #2c786c;
+  background-image: -webkit-linear-gradient(top, #2c786c, #2c784d);
+  background-image: -moz-linear-gradient(top, #2c786c, #2c784d);
+  background-image: -ms-linear-gradient(top, #2c786c, #2c784d);
+  background-image: -o-linear-gradient(top, #2c786c, #2c784d);
+  background-image: linear-gradient(to bottom, #2c786c, #2c784d);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: "Merriweather",Arial;
+  color: #ffffff;
+  font-size: 16px;
+
+  border-style: solid;
+  border-width: 2;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #004445;
+  text-decoration: none;
+}
